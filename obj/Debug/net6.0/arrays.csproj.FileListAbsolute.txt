@@ -1,0 +1,15 @@
+/Users/ilginarpaci1/Documents/sites/c#/arrays/bin/Debug/net6.0/arrays
+/Users/ilginarpaci1/Documents/sites/c#/arrays/bin/Debug/net6.0/arrays.deps.json
+/Users/ilginarpaci1/Documents/sites/c#/arrays/bin/Debug/net6.0/arrays.runtimeconfig.json
+/Users/ilginarpaci1/Documents/sites/c#/arrays/bin/Debug/net6.0/arrays.dll
+/Users/ilginarpaci1/Documents/sites/c#/arrays/bin/Debug/net6.0/arrays.pdb
+/Users/ilginarpaci1/Documents/sites/c#/arrays/obj/Debug/net6.0/arrays.csproj.AssemblyReference.cache
+/Users/ilginarpaci1/Documents/sites/c#/arrays/obj/Debug/net6.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilginarpaci1/Documents/sites/c#/arrays/obj/Debug/net6.0/arrays.AssemblyInfoInputs.cache
+/Users/ilginarpaci1/Documents/sites/c#/arrays/obj/Debug/net6.0/arrays.AssemblyInfo.cs
+/Users/ilginarpaci1/Documents/sites/c#/arrays/obj/Debug/net6.0/arrays.csproj.CoreCompileInputs.cache
+/Users/ilginarpaci1/Documents/sites/c#/arrays/obj/Debug/net6.0/arrays.dll
+/Users/ilginarpaci1/Documents/sites/c#/arrays/obj/Debug/net6.0/refint/arrays.dll
+/Users/ilginarpaci1/Documents/sites/c#/arrays/obj/Debug/net6.0/arrays.pdb
+/Users/ilginarpaci1/Documents/sites/c#/arrays/obj/Debug/net6.0/arrays.genruntimeconfig.cache
+/Users/ilginarpaci1/Documents/sites/c#/arrays/obj/Debug/net6.0/ref/arrays.dll
